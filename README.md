@@ -12,7 +12,7 @@
 
 ## About
 
-I'm Sanya, a dual degree (BTech + MTech) Computer Science student at NIT Hamirpur, working at the intersection of large language models, retrieval augmented generation, and applied deep learning. I like making AI systems reason about whether they actually have enough evidence before acting: diagnosing an incident from telemetry, or retrieving the right context from a document.
+I'm a dual degree (BTech + MTech) Computer Science student at NIT Hamirpur, working at the intersection of large language models, retrieval augmented generation, and applied deep learning. I like making AI systems reason about whether they actually have enough evidence before acting: diagnosing an incident from telemetry, or retrieving the right context from a document.
 
 - Studying Computer Science and Engineering, Dual Degree (BTech + MTech), 2022 to 2027, at NIT Hamirpur
 - UG CGPA: 9.00
@@ -71,12 +71,12 @@ LLM powered chatbot for space research Q&A, with ML driven visualization for int
 ## GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanya727&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=2A5298&icon_color=2A5298&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya727&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=2A5298&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanya727&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya727&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Sanya727&theme=default&hide_border=true&background=00000000&ring=2A5298&fire=2A5298&currStreakLabel=2A5298" />
+<img src="https://streak-stats.demolab.com/?user=Sanya727&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
