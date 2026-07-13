@@ -1,103 +1,118 @@
-<h1 align="center">Hi there, I'm Sanya Gupta 👋</h1>
+<div align="center">
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sanya%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20RAG%20Systems%20%E2%80%A2%20Deep%20Learning&descAlignY=58&descSize=18"/>
 
-## 🧠 AI/ML Engineer | RAG Systems | Deep Learning Researcher
+<a href="https://www.linkedin.com/in/sanya-gupta-54b512257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/sanya_851/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:sanya16.iaf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-I'm a **Computer Science and Engineering Dual Degree (BTech + MTech)** student at **NIT Hamirpur**, building at the intersection of **LLMs, Retrieval-Augmented Generation, and applied deep learning**. My work spans multilingual RAG pipelines, operational intelligence systems, and representation learning for speech.
+<br/>
 
-I enjoy turning messy, real-world data — logs, PDFs, audio, spreadsheets — into systems that actually reason about it: retrieving the right context, detecting what's anomalous, and explaining *why*.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2A5298&center=true&vCenter=true&width=600&lines=Building+multilingual+RAG+systems;Researching+evidence-aware+incident+diagnosis;Multi-view+representation+learning+for+speech" />
 
-- 🔭 Currently researching **evidence-aware incident diagnosis** for AIOps using LLM pipelines
-- 🧪 Building **multi-view representation learning** systems for speech and multilingual data
-- 🎓 UG CGPA: **9.00** · PG CGPA: **9.38** · GATE 2025 AIR **6505** (CS & DA)
-- 📫 Reach me at **sanya16.iaf@gmail.com**
+</div>
 
----
+<br/>
 
-## 💼 Experience
+## About
 
-### Research Intern | IIT Ropar
-*May 2024 – Jul 2024*
+Dual-degree (BTech + MTech) Computer Science student at **NIT Hamirpur**, working at the intersection of large language models, retrieval-augmented generation, and applied deep learning. My work focuses on making AI systems reason about *whether they have enough evidence* before acting — whether that's diagnosing an incident from telemetry or retrieving the right context from a document.
 
-Built and deployed a full-stack RAG application — Quart backend, Llama 3 via LangChain, and a ChromaDB retrieval pipeline for context-aware PDF and general-query Q&A.
+| | |
+|---|---|
+| **Institution** | National Institute of Technology, Hamirpur |
+| **Program** | CSE — Dual Degree (BTech + MTech), 2022–2027 |
+| **Academic Record** | UG CGPA 9.00 · PG CGPA 9.38 · GATE 2025 AIR 6505 (CS & DA) |
+| **Prior Experience** | Research Intern, IIT Ropar (2024) |
 
----
+<br/>
 
-# 🛠️ Tech Stack
+## Experience
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Research Intern — IIT Ropar** &nbsp;·&nbsp; *May 2024 – Jul 2024*
+Built and deployed a full-stack retrieval-augmented Q&A application: a Quart backend integrated with Llama 3 via LangChain, and a ChromaDB vector store for accurate, context-aware document retrieval.
 
-### AI / Machine Learning
-![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Generative_AI-red?style=for-the-badge)
-![Autoencoders](https://img.shields.io/badge/Autoencoders-orange?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<br/>
 
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## Tech Stack
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-7C4DFF?style=flat-square"/>
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,firebase&theme=dark" />
+</p>
 
-# 🚀 Featured Projects
+<br/>
 
-## 🗂️ Talk2Data — Multilingual Operational Intelligence System
-*Major Project*
+## Featured Work
 
-A five-layer AI pipeline (Parser → Analyzer → Report Builder → RAG Engine → LLM Client) that converts raw logs, CSVs, and Excel telemetry into structured decisions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- ⚡ Real-time anomaly detection combining statistical rules (Z-score, IQR) with semantic retrieval
-- 🔄 Incremental FAISS indexing with a `watchdog`-based live file monitor — no full rebuilds
-- 🌐 Multilingual RAG engine on offline, privacy-preserving inference (Qwen2.5:3B via Ollama)
-- ✅ Validated across sensor CSVs, log files, and structured datasets in real time
+### Talk2Data
+**Multilingual Operational Intelligence System** · *Major Project*
 
-## 🎙️ Multi-View Autoencoder with Meta-Fusion for Hindi Accent Clustering
-*Deep Learning Research Project*
+A five-layer AI pipeline (Parser → Analyzer → Report Builder → RAG Engine → LLM Client) converting raw logs, CSVs, and Excel telemetry into structured, actionable decisions.
+
+- Real-time anomaly detection combining statistical rules (Z-score, IQR) with semantic retrieval
+- Incremental FAISS indexing with a `watchdog`-based live file monitor
+- Offline, privacy-preserving multilingual RAG (Qwen2.5:3B via Ollama)
+
+</td>
+<td width="50%" valign="top">
+
+### Meta-Fusion Autoencoder
+**Multi-View Hindi Accent Clustering** · *Deep Learning Research*
 
 A multi-view autoencoder with a novel **Meta-Fusion gating mechanism** that adaptively weighs four acoustic views (MFCC, pitch, energy, spectral centroid) instead of naive concatenation.
 
-- 📉 50% dimensionality reduction (16 → 8 latent dims) while preserving reconstruction fidelity
-- 🧬 Trained on Mozilla Common Voice, cross-evaluated on IndicTTS and OpenSLR
-- 🛡️ Noise-robust clustering — Meta-Fusion automatically down-weights corrupted features
+- 50% dimensionality reduction (16 → 8 dims) with preserved reconstruction fidelity
+- Cross-dataset evaluation on Common Voice, IndicTTS, and OpenSLR
+- Noise-robust: automatically down-weights corrupted input views
 
-## 📚 Talk2Books
-Multilingual RAG system for conversational querying over PDFs, DOCX, PPTX, websites, and YouTube transcripts — FAISS + HuggingFace retrieval with a local LLM (Ollama).
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🛰️ SPACEWISE
-LLM-powered chatbot for space-research Q&A with ML-driven data visualization for interpretability. [Live demo →](https://sanya727.github.io/SPACEWISE/)
+### Talk2Books
+Multilingual RAG system for conversational querying over PDFs, DOCX, PPTX, websites, and YouTube transcripts, using FAISS + HuggingFace retrieval with a local LLM.
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📈 GitHub Stats
+### SPACEWISE
+LLM-powered chatbot for space-research Q&A, with ML-driven visualization for interpreting complex exploration data. [Live demo](https://sanya727.github.io/SPACEWISE/)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanya727&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya727&layout=compact&theme=tokyonight" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanya727&theme=tokyonight" />
-</p>
+<br/>
 
----
+## GitHub Activity
 
-## 🌍 Connect with Me
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanya727&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=2A5298&icon_color=2A5298&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya727&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=2A5298&text_color=333333" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanya-gupta-54b512257/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanya_851/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanya16.iaf@gmail.com)
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanya727&theme=default&hide_border=true&background=00000000&ring=2A5298&fire=2A5298&currStreakLabel=2A5298" />
+</div>
 
----
+<br/>
 
-> "Don't just retrieve information — reason about whether you have enough of it."
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer"/>
+</div>
