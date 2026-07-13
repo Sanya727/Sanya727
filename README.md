@@ -42,7 +42,7 @@ Built and deployed a full-stack retrieval augmented Q&A application: a Quart bac
 
 ## Featured Work
 
-### Talk2Data
+### 1. Talk2Data
 **Multilingual Operational Intelligence System** · *Major Project*
 
 A five layer AI pipeline (Parser, Analyzer, Report Builder, RAG Engine, LLM Client) converting raw logs, CSVs, and Excel telemetry into structured, actionable decisions.
@@ -51,7 +51,7 @@ A five layer AI pipeline (Parser, Analyzer, Report Builder, RAG Engine, LLM Clie
 - Incremental FAISS indexing with a `watchdog` based live file monitor
 - Offline, privacy preserving multilingual RAG (Qwen2.5:3B via Ollama)
 
-### Meta-Fusion Autoencoder
+### 2. Meta-Fusion Autoencoder
 **Multi-View Hindi Accent Clustering** · *Deep Learning Research*
 
 A multi-view autoencoder with a novel Meta-Fusion gating mechanism that adaptively weighs four acoustic views (MFCC, pitch, energy, spectral centroid) instead of naive concatenation.
@@ -60,10 +60,10 @@ A multi-view autoencoder with a novel Meta-Fusion gating mechanism that adaptive
 - Cross dataset evaluation on Common Voice, IndicTTS, and OpenSLR
 - Noise robust: automatically down-weights corrupted input views
 
-### Talk2Books
+### 3. Talk2Books
 Multilingual RAG system for conversational querying over PDFs, DOCX, PPTX, websites, and YouTube transcripts, using FAISS and HuggingFace retrieval with a local LLM.
 
-### SPACEWISE
+### 4. SPACEWISE
 LLM powered chatbot for space research Q&A, with ML driven visualization for interpreting complex exploration data. [Live demo](https://sanya727.github.io/SPACEWISE/)
 
 <br/>
@@ -71,8 +71,8 @@ LLM powered chatbot for space research Q&A, with ML driven visualization for int
 ## GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanya727&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya727&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Sanya727&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanya727&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
