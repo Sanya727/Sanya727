@@ -71,11 +71,6 @@ LLM powered chatbot for space research Q&A, with ML driven visualization for int
 ## GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Sanya727&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanya727&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com/?user=Sanya727&theme=tokyonight&hide_border=true" />
 </div>
 
