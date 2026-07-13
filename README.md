@@ -10,74 +10,37 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="65%" valign="middle">
-
 ## About
 
-Dual degree (BTech + MTech) Computer Science student at **NIT Hamirpur**, working at the intersection of large language models, retrieval augmented generation, and applied deep learning. My focus is on making AI systems reason about whether they actually have enough evidence before acting: diagnosing an incident from telemetry, or retrieving the right context from a document.
+I'm Sanya, a dual degree (BTech + MTech) Computer Science student at NIT Hamirpur, working at the intersection of large language models, retrieval augmented generation, and applied deep learning. I like making AI systems reason about whether they actually have enough evidence before acting: diagnosing an incident from telemetry, or retrieving the right context from a document.
 
-**Institution:** National Institute of Technology, Hamirpur
-**Program:** CSE Dual Degree (BTech + MTech), 2022 to 2027
-**Academic Record:** UG CGPA 9.00 · PG CGPA 9.38 · GATE 2025 AIR 6505 (CS & DA)
-**Prior Experience:** Research Intern, IIT Ropar (2024)
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="220"/>
-
-</td>
-</tr>
-</table>
+- Studying Computer Science and Engineering, Dual Degree (BTech + MTech), 2022 to 2027, at NIT Hamirpur
+- UG CGPA: 9.00
+- PG CGPA: 9.38
+- GATE 2025 AIR 6505 in CS and Data Science & AI
+- Previously a Research Intern at IIT Ropar
 
 <br/>
 
 ## Experience
 
 **Research Intern, IIT Ropar** &nbsp;·&nbsp; *May 2024 to Jul 2024*
+
 Built and deployed a full-stack retrieval augmented Q&A application: a Quart backend integrated with Llama 3 via LangChain, and a ChromaDB vector store for accurate, context-aware document retrieval.
 
 <br/>
 
 ## Tech Stack
 
-<table>
-<tr>
-<td width="70%" valign="middle">
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-7C4DFF?style=flat-square"/>
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,firebase&theme=dark" />
-</p>
+**AI / ML:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7C4DFF?style=flat-square)
 
-</td>
-<td width="30%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="180"/>
-
-</td>
-</tr>
-</table>
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 <br/>
 
 ## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### Talk2Data
 **Multilingual Operational Intelligence System** · *Major Project*
@@ -88,35 +51,20 @@ A five layer AI pipeline (Parser, Analyzer, Report Builder, RAG Engine, LLM Clie
 - Incremental FAISS indexing with a `watchdog` based live file monitor
 - Offline, privacy preserving multilingual RAG (Qwen2.5:3B via Ollama)
 
-</td>
-<td width="50%" valign="top">
-
 ### Meta-Fusion Autoencoder
 **Multi-View Hindi Accent Clustering** · *Deep Learning Research*
 
-A multi-view autoencoder with a novel **Meta-Fusion gating mechanism** that adaptively weighs four acoustic views (MFCC, pitch, energy, spectral centroid) instead of naive concatenation.
+A multi-view autoencoder with a novel Meta-Fusion gating mechanism that adaptively weighs four acoustic views (MFCC, pitch, energy, spectral centroid) instead of naive concatenation.
 
 - 50% dimensionality reduction (16 to 8 dims) with preserved reconstruction fidelity
 - Cross dataset evaluation on Common Voice, IndicTTS, and OpenSLR
 - Noise robust: automatically down-weights corrupted input views
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### Talk2Books
 Multilingual RAG system for conversational querying over PDFs, DOCX, PPTX, websites, and YouTube transcripts, using FAISS and HuggingFace retrieval with a local LLM.
 
-</td>
-<td width="50%" valign="top">
-
 ### SPACEWISE
 LLM powered chatbot for space research Q&A, with ML driven visualization for interpreting complex exploration data. [Live demo](https://sanya727.github.io/SPACEWISE/)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -133,16 +81,16 @@ LLM powered chatbot for space research Q&A, with ML driven visualization for int
 
 <br/>
 
-## Connect
-
 <div align="center">
+
+## Let's Connect
+
 <a href="https://www.linkedin.com/in/sanya-gupta-54b512257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/sanya_851/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:sanya16.iaf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=75"/>
+
 </div>
