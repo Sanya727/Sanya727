@@ -6,35 +6,46 @@
 <a href="https://leetcode.com/u/sanya_851/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:sanya16.iaf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2A5298&center=true&vCenter=true&width=600&lines=Building+multilingual+RAG+systems;Researching+evidence-aware+incident+diagnosis;Multi-view+representation+learning+for+speech" />
-
 </div>
 
 <br/>
 
+<table>
+<tr>
+<td width="65%" valign="middle">
+
 ## About
 
-Dual-degree (BTech + MTech) Computer Science student at **NIT Hamirpur**, working at the intersection of large language models, retrieval-augmented generation, and applied deep learning. My work focuses on making AI systems reason about *whether they have enough evidence* before acting — whether that's diagnosing an incident from telemetry or retrieving the right context from a document.
+Dual degree (BTech + MTech) Computer Science student at **NIT Hamirpur**, working at the intersection of large language models, retrieval augmented generation, and applied deep learning. My focus is on making AI systems reason about whether they actually have enough evidence before acting: diagnosing an incident from telemetry, or retrieving the right context from a document.
 
-| | |
-|---|---|
-| **Institution** | National Institute of Technology, Hamirpur |
-| **Program** | CSE — Dual Degree (BTech + MTech), 2022–2027 |
-| **Academic Record** | UG CGPA 9.00 · PG CGPA 9.38 · GATE 2025 AIR 6505 (CS & DA) |
-| **Prior Experience** | Research Intern, IIT Ropar (2024) |
+**Institution:** National Institute of Technology, Hamirpur
+**Program:** CSE Dual Degree (BTech + MTech), 2022 to 2027
+**Academic Record:** UG CGPA 9.00 · PG CGPA 9.38 · GATE 2025 AIR 6505 (CS & DA)
+**Prior Experience:** Research Intern, IIT Ropar (2024)
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="220"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## Experience
 
-**Research Intern — IIT Ropar** &nbsp;·&nbsp; *May 2024 – Jul 2024*
-Built and deployed a full-stack retrieval-augmented Q&A application: a Quart backend integrated with Llama 3 via LangChain, and a ChromaDB vector store for accurate, context-aware document retrieval.
+**Research Intern, IIT Ropar** &nbsp;·&nbsp; *May 2024 to Jul 2024*
+Built and deployed a full-stack retrieval augmented Q&A application: a Quart backend integrated with Llama 3 via LangChain, and a ChromaDB vector store for accurate, context-aware document retrieval.
 
 <br/>
 
 ## Tech Stack
+
+<table>
+<tr>
+<td width="70%" valign="middle">
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" />
@@ -51,6 +62,15 @@ Built and deployed a full-stack retrieval-augmented Q&A application: a Quart bac
 <img src="https://skillicons.dev/icons?i=git,linux,vscode,firebase&theme=dark" />
 </p>
 
+</td>
+<td width="30%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="180"/>
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 ## Featured Work
@@ -62,11 +82,11 @@ Built and deployed a full-stack retrieval-augmented Q&A application: a Quart bac
 ### Talk2Data
 **Multilingual Operational Intelligence System** · *Major Project*
 
-A five-layer AI pipeline (Parser → Analyzer → Report Builder → RAG Engine → LLM Client) converting raw logs, CSVs, and Excel telemetry into structured, actionable decisions.
+A five layer AI pipeline (Parser, Analyzer, Report Builder, RAG Engine, LLM Client) converting raw logs, CSVs, and Excel telemetry into structured, actionable decisions.
 
-- Real-time anomaly detection combining statistical rules (Z-score, IQR) with semantic retrieval
-- Incremental FAISS indexing with a `watchdog`-based live file monitor
-- Offline, privacy-preserving multilingual RAG (Qwen2.5:3B via Ollama)
+- Real time anomaly detection combining statistical rules (Z-score, IQR) with semantic retrieval
+- Incremental FAISS indexing with a `watchdog` based live file monitor
+- Offline, privacy preserving multilingual RAG (Qwen2.5:3B via Ollama)
 
 </td>
 <td width="50%" valign="top">
@@ -76,9 +96,9 @@ A five-layer AI pipeline (Parser → Analyzer → Report Builder → RAG Engine 
 
 A multi-view autoencoder with a novel **Meta-Fusion gating mechanism** that adaptively weighs four acoustic views (MFCC, pitch, energy, spectral centroid) instead of naive concatenation.
 
-- 50% dimensionality reduction (16 → 8 dims) with preserved reconstruction fidelity
-- Cross-dataset evaluation on Common Voice, IndicTTS, and OpenSLR
-- Noise-robust: automatically down-weights corrupted input views
+- 50% dimensionality reduction (16 to 8 dims) with preserved reconstruction fidelity
+- Cross dataset evaluation on Common Voice, IndicTTS, and OpenSLR
+- Noise robust: automatically down-weights corrupted input views
 
 </td>
 </tr>
@@ -86,13 +106,13 @@ A multi-view autoencoder with a novel **Meta-Fusion gating mechanism** that adap
 <td width="50%" valign="top">
 
 ### Talk2Books
-Multilingual RAG system for conversational querying over PDFs, DOCX, PPTX, websites, and YouTube transcripts, using FAISS + HuggingFace retrieval with a local LLM.
+Multilingual RAG system for conversational querying over PDFs, DOCX, PPTX, websites, and YouTube transcripts, using FAISS and HuggingFace retrieval with a local LLM.
 
 </td>
 <td width="50%" valign="top">
 
 ### SPACEWISE
-LLM-powered chatbot for space-research Q&A, with ML-driven visualization for interpreting complex exploration data. [Live demo](https://sanya727.github.io/SPACEWISE/)
+LLM powered chatbot for space research Q&A, with ML driven visualization for interpreting complex exploration data. [Live demo](https://sanya727.github.io/SPACEWISE/)
 
 </td>
 </tr>
@@ -109,6 +129,16 @@ LLM-powered chatbot for space-research Q&A, with ML-driven visualization for int
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanya727&theme=default&hide_border=true&background=00000000&ring=2A5298&fire=2A5298&currStreakLabel=2A5298" />
+</div>
+
+<br/>
+
+## Connect
+
+<div align="center">
+<a href="https://www.linkedin.com/in/sanya-gupta-54b512257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/sanya_851/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:sanya16.iaf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br/>
