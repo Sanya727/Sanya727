@@ -18,7 +18,7 @@ I'm a dual degree (BTech + MTech) Computer Science student at NIT Hamirpur, work
 - UG CGPA: 9.00
 - PG CGPA: 9.38
 - GATE 2025 AIR 6505 in CS and Data Science & AI
-- Previously a Research Intern at IIT Ropar
+
 
 <br/>
 
